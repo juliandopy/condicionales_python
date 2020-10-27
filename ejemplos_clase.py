@@ -16,7 +16,7 @@ __version__ = "1.2"
 
 
 def numbers():
-    # Ejemplos varialbles numéricas
+    # Ejemplos variables numéricas
     x = 5
     y = 2
 
